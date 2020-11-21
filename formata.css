@@ -1,0 +1,30 @@
+p {
+text-align: left;
+font-size: 20px;
+font-style: arial;
+color: gray;
+ background-color: blanchedalmond;
+
+}
+
+.menu {
+    font-family:Georgia, serif;
+    padding: 100px;
+	
+}
+table { 
+
+border-collapse: collapse;
+ border: floralwhite;
+ margin: 1 auto;
+ margin-top: 30px;
+ background-color: blanchedalmond;
+}
+//formulario
+h1 {
+    color: red;
+}
+.form {
+    
+    
+}
